@@ -19,7 +19,6 @@ This project demonstrates navigation and pathfinding using graph algorithms in P
   - [Graph Algorithms](#graph-algorithms)
   - [Dynamic Interaction](#dynamic-interaction)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Features
 
