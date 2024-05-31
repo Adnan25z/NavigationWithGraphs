@@ -3,6 +3,7 @@
 ## Introduction
 
 This project demonstrates navigation and pathfinding using graph algorithms in Python. It focuses on implementing various graph traversal techniques to find the shortest path between nodes in a graph, which can be applied to real-world navigation problems. The project also includes features for placing different agents at various positions on the map and using keys to add or block paths dynamically.
+![Gameplay Image](path.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
